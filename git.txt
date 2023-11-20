@@ -1,0 +1,11 @@
+git init 初始化
+git status 查詢檔案追蹤狀態
+git add file_name 將該檔案加入追蹤
+git commit 存檔
+git commit -m "name" 名為name的一個存檔，可跳過文字編輯器
+git log 查看編輯修改
+git add . 將該資料夾的所有檔案加入追蹤(點代表資料夾)
+git remote add origin https://github.com/lewisyao3/hello.git 連結自己和github網站
+git push -u origin master -u預設，push且預設為origin
+之後就可以直接 git push
+git push origin master    push但不預設
