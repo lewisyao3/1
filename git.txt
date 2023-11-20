@@ -9,3 +9,4 @@ git remote add origin https://github.com/lewisyao3/hello.git 連結自己和gith
 git push -u origin master -u預設，push且預設為origin
 之後就可以直接 git push
 git push origin master    push但不預設
+
